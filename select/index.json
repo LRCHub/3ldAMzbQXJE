@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wings",
+  "base_artist": "PIXY",
+  "createdAt": "2025-12-25T05:25:06.308884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wings",
+      "artist": "Jackson Dean",
+      "has_synced": true,
+      "path": "select/01_Wings_Jackson_Dean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wings",
+      "artist": "Jackson Dean",
+      "has_synced": false,
+      "path": "select/02_Wings_Jackson_Dean.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me Wings",
+      "artist": "Michael Johnson",
+      "has_synced": true,
+      "path": "select/03_Give_Me_Wings_Michael_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Silver Wings - Live In Muskogee, Oklahoma/1969",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/04_Silver_Wings_-_Live_In_Muskogee,_Oklahoma_1969_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Silver Wings (Live In Muskogee, Oklahoma/1969)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/05_Silver_Wings_(Live_In_Muskogee,_Oklahoma_1969)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wings of a Dove",
+      "artist": "Ferlin Husky",
+      "has_synced": true,
+      "path": "select/06_Wings_of_a_Dove_Ferlin_Husky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spread Your Wings",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/07_Spread_Your_Wings_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wings On My Penis - feat. Lil Tommy Terror",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/08_Wings_On_My_Penis_-_feat._Lil_Tommy_Terror_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hot Wings",
+      "artist": "Young Nudy feat. Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/09_Hot_Wings_Young_Nudy_feat._Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hot Wings",
+      "artist": "Young Nudy & Pi'erre Bourne",
+      "has_synced": true,
+      "path": "select/10_Hot_Wings_Young_Nudy_&_Pi'erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silicon Wings",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/11_Silicon_Wings_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "With Crippled Wings",
+      "artist": "Lift to Experience",
+      "has_synced": true,
+      "path": "select/12_With_Crippled_Wings_Lift_to_Experience.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Angel With The Scabbed Wings",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/13_Angel_With_The_Scabbed_Wings_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Maybe Sprout Wings",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/14_Maybe_Sprout_Wings_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wings",
+      "artist": "HAERTS",
+      "has_synced": false,
+      "path": "select/15_Wings_HAERTS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wings",
+      "artist": "PIXY",
+      "has_synced": false,
+      "path": "select/pl_01_Wings_PIXY.txt"
+    }
+  ]
+}
